@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(to bottom, pink, whitesmoke);
+}
+div{
+    margin: 30px;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+/*transformaciones  (eje x, eje y)
+    transform: translate( 10px, 30px);
+    transform: rotate(45deg);
+    transform: scale(2, 1);*/
+
+}
